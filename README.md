@@ -90,24 +90,4 @@ pan-card-tampering/
 - scikit-image
 - imutils
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the contributors of the libraries used in this project.
-```
-
-### Key Points:
-
-- **Project Overview**: Provides a brief description of the project's purpose.
-- **Features**: Lists what the application does.
-- **Installation**: Describes how to set up the project locally.
-- **Usage**: Explains how to run the application and use it.
-- **Project Structure**: Shows the directory layout of the project.
-- **Dependencies**: Lists the Python libraries required to run the application.
-- **License**: Indicates the project’s license.
-- **Acknowledgments**: Credits to the creators of the libraries and tools used. 
-
-Make sure to replace the placeholder GitHub URL with your actual repository URL if you are hosting it on GitHub.
